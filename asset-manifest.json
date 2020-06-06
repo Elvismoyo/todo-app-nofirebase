@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Elvismoyo/todo-app-nofirebase/static/css/main.fe2f1255.chunk.css",
+    "main.js": "/Elvismoyo/todo-app-nofirebase/static/js/main.6265fde8.chunk.js",
+    "main.js.map": "/Elvismoyo/todo-app-nofirebase/static/js/main.6265fde8.chunk.js.map",
+    "runtime-main.js": "/Elvismoyo/todo-app-nofirebase/static/js/runtime-main.7a7bd540.js",
+    "runtime-main.js.map": "/Elvismoyo/todo-app-nofirebase/static/js/runtime-main.7a7bd540.js.map",
+    "static/js/2.d2287005.chunk.js": "/Elvismoyo/todo-app-nofirebase/static/js/2.d2287005.chunk.js",
+    "static/js/2.d2287005.chunk.js.map": "/Elvismoyo/todo-app-nofirebase/static/js/2.d2287005.chunk.js.map",
+    "index.html": "/Elvismoyo/todo-app-nofirebase/index.html",
+    "precache-manifest.962c5d3e51400f8aa97e5a34eff2397b.js": "/Elvismoyo/todo-app-nofirebase/precache-manifest.962c5d3e51400f8aa97e5a34eff2397b.js",
+    "service-worker.js": "/Elvismoyo/todo-app-nofirebase/service-worker.js",
+    "static/css/main.fe2f1255.chunk.css.map": "/Elvismoyo/todo-app-nofirebase/static/css/main.fe2f1255.chunk.css.map",
+    "static/js/2.d2287005.chunk.js.LICENSE.txt": "/Elvismoyo/todo-app-nofirebase/static/js/2.d2287005.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Elvismoyo/todo-app-nofirebase/static/media/plus.9d40ce02.png",
+    "static/media/Todo.css": "/Elvismoyo/todo-app-nofirebase/static/media/Recycle-Bin.f76d5bfc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a7bd540.js",
+    "static/js/2.d2287005.chunk.js",
+    "static/css/main.fe2f1255.chunk.css",
+    "static/js/main.6265fde8.chunk.js"
+  ]
+}
